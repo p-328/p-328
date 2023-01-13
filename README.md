@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @p-328
 - 👀 I’m interested in Low Level Programming, Web Development, and Desktop Development
 - 🌱 I’m currently learning JavaFX, Svelte, Arduino language, Assembly, and rocket.rs
-- My skills: Python, JavaScript, Rust, C++, Java, Django, PHP
+- My skills: Python, JavaScript, Rust, C++, Java, Django, PHP, HTML, CSS
 - How to reach me - ram.patel3882323@gmail.com 
 
 <!---
